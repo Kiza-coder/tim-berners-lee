@@ -14,6 +14,10 @@
 - Html
 - Css
 
+## Duration
+
+- 180 minutes
+
 ## Link
 
 - Link of the GitHub Page : [Here](https://kiza-coder.github.io/tim-berners-lee/)
